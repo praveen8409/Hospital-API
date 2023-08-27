@@ -5,9 +5,9 @@ Installation
 
 To run this application on your local machine, please follow these steps:
 
-Clone this repository using the following command: https://github.com/jaisreera/Hospital-API.git
+Clone this repository using the following command: https://github.com/praveen8409/Hospital-API.git
 
-<p style="color:red;">Link:- https://hospital-api-0eab.onrender.com<p>
+<p style="color:red;">Link:-https://hospital-api-n4b8.onrender.com<p>
 
 Install the required dependencies using the following command: $ npm install
 
