@@ -5,9 +5,9 @@ Installation
 
 To run this application on your local machine, please follow these steps:
 
-Clone this repository using the following command: https://github.com/jaisreera/Hospital-API.git
+Clone this repository using the following command: https://github.com/praveen8409/Hospital-API.git
 
-<p style="color:red;">Link:- https://hospital-api-0eab.onrender.com<p>
+<p style="color:red;">Link:-https://hospital-api-n4b8.onrender.com<p>
 
 Install the required dependencies using the following command: $ npm install
 
@@ -42,9 +42,9 @@ Positive-Admit]
 
 Routes:
 
-- https://hospital-api-0eab.onrender.com/doctors/register → with username and password
-- https://hospital-api-0eab.onrender.com/doctors/login → returns the JWT to be used
-- https://hospital-api-0eab.onrender.com/patients/register
-- https://hospital-api-0eab.onrender.com/patients/:id/create_report
-- https://hospital-api-0eab.onrender.com/patients/:id/all_reports → List all the reports of a patient oldest to latest
-- https://hospital-api-0eab.onrender.com/reports/:status → List all the reports of all the patients filtered by a specific status
+- https://hospital-api-n4b8.onrender.com/register → with username and password
+- https://hospital-api-n4b8.onrender.com/doctors/login → returns the JWT to be used
+- https://hospital-api-n4b8.onrender.com/patients/register
+- https://hospital-api-n4b8.onrender.com/patients/:id/create_report
+- https://hospital-api-n4b8.onrender.com/patients/:id/all_reports → List all the reports of a patient oldest to latest
+- https://hospital-api-n4b8.onrender.com/reports/:status → List all the reports of all the patients filtered by a specific status
