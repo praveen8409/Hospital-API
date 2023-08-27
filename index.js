@@ -5,6 +5,14 @@ const app = express();
 const port = 8000;
 const db = require('./config/mongoose')
 
+app.set('views', './views');
+app.set('view engine', 'ejs');
+
+app.use('/styles', express.static('home'));
+
+app.use('/styles', express.static(__dirname + '/styles'));
+
+
 //Used for Session Cookie
 const passport = require('passport');
 const passportJWT = require('./config/passport-jwt-strategy')
